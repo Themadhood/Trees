@@ -4,10 +4,10 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='TPC_Template',
+    name='TPC_Trees',
     version="1.0.0",#__version__,
 
-    url='https://github.com/Themadhood/Template',
+    url='https://github.com/Themadhood/Trees',
     author='Themadhood Pequot',
     author_email='themadhoodpequot@gmail.com',
 
